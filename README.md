@@ -29,3 +29,7 @@ Steps:
 4. The batch program will ask if you want to run the program. Press **`y`** to run the program or press any other key to exit.
 
 Specific instructions can be found in the projects' respective folders if needed
+
+
+## TODO
+- Make a global script to build & run any project without changing folders
