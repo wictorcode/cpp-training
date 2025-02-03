@@ -13,11 +13,9 @@ Micro projects/training with C++. Nothing really fancy.
 
 ## Building/Running
 
-For now, i'm using .bat files to build, which -- to my knowledge -- only works on windows.
-
-So you need a windows machine to automatically build with the provided scripts
-
-However, you can still write your own Makefiles if you really want to.
+The projects are built with batch .bat scripts so you need a windows machine to compile with the current setup.
+You can also compile it yourself with any other method if needed (if you're on Linux/MacOS)
+Some projects are exclusive to Windows since it uses the win32 API.
 
   
 
