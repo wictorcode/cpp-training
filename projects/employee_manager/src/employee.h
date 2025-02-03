@@ -37,7 +37,7 @@ public:
     //--------------------------------------
     // METHODS
     //--------------------------------------
-    int increaseSalary(float percentageIncrease, bool ceil);
+    int increaseSalary(float percentageIncrease);
     //--------------------------------------
     // MISC
     //--------------------------------------
