@@ -7,7 +7,7 @@ Micro projects/training with C++. Nothing really fancy.
 
 ## List of 'projects' inside this repo
 
-- Nothing
+- (WIP) Employee Management Application - Load a CSV, modify information, search, filter, etc...
 
   
 
@@ -27,3 +27,5 @@ Steps:
 2. For the program you want to run, open a terminal in the corresponding folder and run `.\build.bat`
 3. This will compile the object files into `.\build\` and the .exe program will be generated inside of `.\out\`
 4. The batch program will ask if you want to run the program. Press **`y`** to run the program or press any other key to exit.
+
+Specific instructions can be found in the projects' respective folders if needed
