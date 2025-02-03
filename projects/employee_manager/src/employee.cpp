@@ -7,6 +7,14 @@ Employee::Employee() {}
 
 Employee::~Employee() {}
 
+void setName(std::string newName) {}
+void setAge(int newAge) {}
+void setDepartment(eDEPARTMENT newDepartment){}
+void setEducation(eEDUCATION newEducation) {}
+void setGender(eGENDER newGender) {}
+void setMaritalStatus(eMARITAL_STATUS newStatus) {}
+
+
 void Employee::setSalary(int newSalary) {
     this->salary = newSalary;
 }
