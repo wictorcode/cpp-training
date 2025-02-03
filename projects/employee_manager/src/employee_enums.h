@@ -1,0 +1,36 @@
+#pragma once
+
+enum eGENDER {
+    MALE = 0,
+    FEMALE,
+    GENDERFLUID
+};
+
+enum eMARITAL_STATUS {
+    NOT_GIVEN = 0,
+    SINGLE,
+    MARRIED,
+    DIVORCED,
+};
+
+enum eDEPARTMENT {
+    ENGINEERING = 0,
+    SALES,
+    RESEARCH_DEVELOPMENT,
+    BUSINESS_DEVELOPMENT,
+    MARKETING,
+    HUMAN_RESOURCES,
+    ACCOUNTING,
+    SERVICES,
+    TRAINING,
+    SUPPORT,
+    LEGAL,
+    PRODUCT_MANAGEMENT,
+};
+
+enum eEDUCATION {
+    HIGH_SCHOOL = 0,
+    BACHELOR,
+    MASTER,
+    PHD,
+};
