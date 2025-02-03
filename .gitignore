@@ -1,0 +1,2 @@
+projects/**/build/*.o
+projects/**/out/*.exe
